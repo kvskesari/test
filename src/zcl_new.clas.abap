@@ -1,14 +1,14 @@
-CLASS zcl_new DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_NEW definition
+  public
+  final
+  create public .
 
-  PUBLIC SECTION.
+public section.
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS zcl_new IMPLEMENTATION.
+CLASS ZCL_NEW IMPLEMENTATION.
 ENDCLASS.
